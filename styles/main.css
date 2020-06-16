@@ -11,4 +11,7 @@ h1 {
 body {
   background: #eee; }
 
+.hidden {
+  display: none; }
+
 /*# sourceMappingURL=main.css.map */
